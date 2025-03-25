@@ -4,6 +4,7 @@
 #     print(" u are eligible for voting..!")
 # else:
 #     print(" u are not eligible for voting..!")
+
 #########################
 # WAP check the eligibility criteria for driving licence
 # age=44
